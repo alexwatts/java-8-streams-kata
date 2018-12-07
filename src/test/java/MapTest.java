@@ -20,4 +20,5 @@ public class MapTest {
     private List<Apple> givenApples() {
         return Arrays.asList(new Apple(), new Apple(), new Apple());
     }
+    
 }
